@@ -37,6 +37,7 @@
   "keywords": [],
   "preferGlobal": "true",
   "bin": {
-      "as": "lib/as.js"
-  }
+    "as": "lib/as.js"
+  },
+  "dependencies": {}
 }
